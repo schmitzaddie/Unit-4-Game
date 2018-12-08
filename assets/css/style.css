@@ -1,0 +1,29 @@
+.crystal-image {
+    width: 300px;
+    height: 300px;
+    padding: 20px;
+  }
+
+#number-to-guess {
+    background-color: rgb(255, 124, 196);
+    color: white;
+    font-size: 30px;
+}
+
+#score {
+    background-color: rgb(255, 124, 196);
+    color: white;
+    font-size: 30px;
+}
+
+#wins {
+    background-color: black;
+    color: white;
+    font-size: 26px;
+}
+
+#losses {
+    background-color: black;
+    color: white;
+    font-size: 26px;
+}
